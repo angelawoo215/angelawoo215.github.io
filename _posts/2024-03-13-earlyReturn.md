@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "[Javascript] Early return pattern"
-tags:  강의 체험단 1기,  인프런 강의 추천, 자바스크립트 강의 추천, 자바스크립트 강의 
+tags:  강의체험단1기,인프런강의추천,자바스크립트강의추천,자바스크립트 강의 
 ---
 
 # TIL : Early return pattern
